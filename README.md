@@ -47,4 +47,4 @@
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com -->
 
-Thank you codeSTAKr for the template ♥
+Thank you codeSTACKr for the template ♥
