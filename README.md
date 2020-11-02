@@ -1,6 +1,6 @@
 # Hi there, I'm Rushabh Barbhaya 👋
 
-## I'm a Data Analyst, Business Intelligence Specialist, and a Student!
+## I'm a Data Analyst, Business Intelligence Specialist, and a Student! 🇺🇸
 
 ### Currently...
 - 📚 Student at Harrisburg University of Science and Technology studying for my Masters in Analytics
