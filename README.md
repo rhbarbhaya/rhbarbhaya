@@ -46,3 +46,5 @@
 [youtube]: https://youtube.com/codeSTACKr
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com -->
+
+Thank you codeSTAKr for the template ♥
