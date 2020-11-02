@@ -8,7 +8,7 @@
 - 👨‍💻 Learning R and RStudios
 
 ### Recently...
-- 👨‍🎓 Master of Engineering in Engineering Management with Specialization in Data Analysis 🇺🇸
+- 👨‍🎓 Master of Engineering in Engineering Management with Specialization in Data Analysis
 - 👨‍🎓 Bachelor of Technology in Electronics and Telecommunications Engineering 
 
 ### Spotify Playing 🎧
