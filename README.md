@@ -1,6 +1,6 @@
 # Hi there, I'm Rushabh Barbhaya 👋
 
-## I'm a Data Analyst, Business Intelligence Specialist, and a Student!
+## Data Analyst; Business Intelligence Specialist;
 
 ### Currently...
 - 📚 Student at Harrisburg University of Science and Technology studying for my Masters in Analytics
@@ -8,6 +8,7 @@
 - 👨‍💻 Learning R and RStudios
 
 ### Academics...
+- 👨‍🎓 Master of Engineering in Analytics with Specialization in Machine Learning
 - 👨‍🎓 Master of Engineering in Engineering Management with Specialization in Data Analysis
 - 👨‍🎓 Bachelor of Technology in Electronics and Telecommunications Engineering 
 
