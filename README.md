@@ -4,11 +4,10 @@
 
 ### Currently...
 - 📚 Student at Harrisburg University of Science and Technology studying for my Masters in Analytics
-- 💼 Business Intelligence Specialist at Goldman Sachs
+- 💼 Business Intelligence Specialist
 - 👨‍💻 Learning R and RStudios
 
 ### Academics...
-- 👨‍🎓 Master of Engineering in Analytics with Specialization in Machine Learning
 - 👨‍🎓 Master of Engineering in Engineering Management with Specialization in Data Analysis
 - 👨‍🎓 Bachelor of Technology in Electronics and Telecommunications Engineering 
 
