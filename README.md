@@ -31,6 +31,7 @@
 - Python
 - R
 - SQL
+- VBA
 - Alteryx
 - Knime
 - RapidMiner
