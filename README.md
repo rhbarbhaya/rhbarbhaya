@@ -3,12 +3,12 @@
 ## Data Analyst; Business Intelligence Specialist
 
 ### Currently...
-- 📚 Student at Harrisburg University of Science and Technology studying for my Masters in Analytics
 - 💼 Business Intelligence Specialist
-- 👨‍💻 Learning R and RStudios
+- 👨‍💻 Learning Front End Development
 
 ### Academics...
 - 👨‍🎓 Master of Engineering in Engineering Management with Specialization in Data Analysis
+- 👨‍🎓 Master of Science in Anlytics with Machine Learning
 - 👨‍🎓 Bachelor of Technology in Electronics and Telecommunications Engineering 
 
 <!-- ### Spotify Playing 🎧
@@ -29,13 +29,11 @@
 ### Languages and Tools:
 
 - Python
+- JavaScript
+- HTML
+- CSS
 - R
 - SQL
-- VBA
-- Alteryx
-- Knime
-- RapidMiner
-- Automation Anywhere
 
 [twitter]: https://twitter.com/rhbarbhaya
 [instagram]: https://www.instagram.com/rushabh__b/
