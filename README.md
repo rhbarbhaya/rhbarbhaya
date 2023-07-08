@@ -5,6 +5,8 @@
 ### Currently...
 - 💼 Business Intelligence Specialist
 - 👨‍💻 Learning Front End Development
+- 👨‍💻 Learnin CI/CD
+- 👨‍💻 Mastering Backend Development
 
 ### Academics...
 - 👨‍🎓 Master of Engineering in Engineering Management with Specialization in Data Analysis
@@ -29,6 +31,7 @@
 ### Languages and Tools:
 
 - Python
+- Go
 - JavaScript
 - HTML
 - CSS
